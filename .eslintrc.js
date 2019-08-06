@@ -23,5 +23,6 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'react/prefer-stateless-function': 'off',
     'no-console': ['error', { allow: ['tron'] }],
+    'no-param-reassign': 'off',
   },
 };
