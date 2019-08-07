@@ -2,6 +2,7 @@ import { createGlobalStyle } from 'styled-components';
 
 // import backgroundStars from '../assets/background-stars.svg';
 import background from '../assets/background.svg';
+import 'react-toastify/dist/ReactToastify.css';
 
 export default createGlobalStyle`
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
