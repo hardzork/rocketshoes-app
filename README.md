@@ -1,4 +1,4 @@
-# React Native Simple e-Shop features (Inspired by Netshoes)
+# React Simple e-Shop features (Inspired by Netshoes)
 
 This project uses React concepts such as Styled Components, States, Props, React Router DOM, Redux and Redux Saga. It also use Json Server to simulate an API to provide products and amount stock.
 
